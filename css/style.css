@@ -19,7 +19,7 @@
   opacity: 0.001;
 }
 
-body {
+.body {
   background-color: rgba(237 100 214 64%);
 }
 
@@ -30,6 +30,6 @@ body {
   padding-top: 4pt;
 }
 
-img {
+.img {
   float: right;
 }
